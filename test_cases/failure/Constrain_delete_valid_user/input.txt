@@ -1,0 +1,2 @@
+username to delete: user
+Delete username: yes

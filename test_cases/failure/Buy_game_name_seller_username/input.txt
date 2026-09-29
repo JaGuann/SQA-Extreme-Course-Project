@@ -1,0 +1,2 @@
+Game name: game1
+Seller name: Seller2

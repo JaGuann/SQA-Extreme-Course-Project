@@ -1,0 +1,1 @@
+Transaction Unsuccessful! Must need enough credits to buy:

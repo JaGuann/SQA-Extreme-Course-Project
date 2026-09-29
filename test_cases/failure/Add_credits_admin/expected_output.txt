@@ -1,1 +1,1 @@
-Invalid, cannot add more than 1000 dollars worth of credit
+Invalid, cannot add more than 1000 dollars worth of credit or user does not exist:

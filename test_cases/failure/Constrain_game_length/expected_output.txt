@@ -1,0 +1,1 @@
+Error: Game must be 25 letters or less
