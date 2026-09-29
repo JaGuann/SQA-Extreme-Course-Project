@@ -1,0 +1,1 @@
+Game cannot be deleted because username put does not match
