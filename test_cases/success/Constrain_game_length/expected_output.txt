@@ -1,0 +1,2 @@
+gamename: gamenamelongerthan25characters
+Status: Transaction failed, game name cannot be longer than 25 charcaters

@@ -1,0 +1,2 @@
+price: 1999
+Status: Transaction failed, price should be in dollars (e.g. 19.99)

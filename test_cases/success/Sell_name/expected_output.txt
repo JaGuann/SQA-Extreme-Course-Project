@@ -1,0 +1,2 @@
+gamename: somegame
+Status: Transaction successful

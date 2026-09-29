@@ -1,0 +1,2 @@
+username: newuser
+Status: Transaction failed, must be logged into an admin account to create new users

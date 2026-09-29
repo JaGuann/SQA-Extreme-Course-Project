@@ -1,0 +1,2 @@
+price: 1000.00
+Status: Transaction failed, game price cannot be higher than 999.99

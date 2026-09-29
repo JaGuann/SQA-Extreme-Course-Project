@@ -1,0 +1,2 @@
+username: namelongerthan15char
+Status: Transaction failed, username can only be maximum 15 characters

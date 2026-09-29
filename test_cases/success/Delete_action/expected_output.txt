@@ -1,0 +1,1 @@
+Status: Transaction succesful, removing games for sale, removing user account

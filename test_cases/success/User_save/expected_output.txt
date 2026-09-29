@@ -1,0 +1,1 @@
+Status: Adding new user into daily transaction file

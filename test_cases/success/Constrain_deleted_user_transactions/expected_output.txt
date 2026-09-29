@@ -1,0 +1,3 @@
+gamename: somegame
+seller: seller
+Status: Transaction failed, seller does not exist, cannot buy game

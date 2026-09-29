@@ -1,0 +1,2 @@
+gamename: existinggame
+Status: Transaction failed, game name must be unique

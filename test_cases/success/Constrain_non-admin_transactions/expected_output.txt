@@ -1,0 +1,1 @@
+Status: Transaction failed, non-admin users cannot perform privileged transactions

@@ -1,0 +1,1 @@
+Status: Transaction failed, can only perform delete when logged into an admin account
