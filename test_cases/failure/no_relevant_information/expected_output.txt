@@ -1,0 +1,1 @@
+Unsuccessful Transaction! Items up for sale currently don't have relevant information put up yet. please try another transaction

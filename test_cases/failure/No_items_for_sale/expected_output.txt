@@ -1,0 +1,1 @@
+Unsuccessful Transaction! There are no items up for sale at the moment, please use a different transaction
