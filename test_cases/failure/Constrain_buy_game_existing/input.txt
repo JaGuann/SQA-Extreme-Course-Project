@@ -1,0 +1,2 @@
+Buy game: yes 
+name of game: exist

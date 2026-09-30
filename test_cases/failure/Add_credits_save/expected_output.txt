@@ -1,0 +1,1 @@
+Unsuccessful transaction! There is no information to save into the daily transaction file

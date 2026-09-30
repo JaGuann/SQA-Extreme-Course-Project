@@ -1,0 +1,2 @@
+Deduct amount from seller: 1.00
+add amount to buyer: 2.00

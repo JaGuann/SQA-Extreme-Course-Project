@@ -1,0 +1,1 @@
+Unsuccessful transaction! Status is standard buy, must be admin in order to delete transaction
