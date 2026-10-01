@@ -1,0 +1,2 @@
+Refund seller: 0.00
+Save refund to daily transaction: yes

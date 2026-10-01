@@ -1,0 +1,1 @@
+Unsuccesful Transaction! Must be Admin user type in order to save game to daily Transaction

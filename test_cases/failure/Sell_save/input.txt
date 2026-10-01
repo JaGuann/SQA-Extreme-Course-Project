@@ -1,0 +1,2 @@
+Save game: yes
+user type: sell_standard
