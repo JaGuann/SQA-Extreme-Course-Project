@@ -1,0 +1,3 @@
+Login: user 
+login type: standard buy
+Transaction buy: yes

@@ -1,0 +1,4 @@
+Sell game: yes
+username: doesnt 
+Buy game: yes
+username: exist
