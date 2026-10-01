@@ -1,2 +1,0 @@
-Delete Game: game1
-Username: username1

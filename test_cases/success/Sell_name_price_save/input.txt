@@ -1,0 +1,2 @@
+gamename: somegame
+price: 19.99

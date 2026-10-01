@@ -1,1 +1,0 @@
-Unsuccessful transaction! There is no game that has been bought that can be saved

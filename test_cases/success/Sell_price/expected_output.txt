@@ -1,2 +1,0 @@
-price: 19.99
-Status: Transaction successful

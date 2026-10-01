@@ -1,1 +1,1 @@
-Unsuccesful Transaction! Cannot refund 0.00 dollars to either seller or buyer when refunding
+Unsuccesful Transaction! Buyer does not exist

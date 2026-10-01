@@ -1,2 +1,0 @@
-sell game: yes 
-price to sell game: 0.00

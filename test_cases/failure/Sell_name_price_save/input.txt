@@ -1,0 +1,3 @@
+Sell game: yes
+game name: ""
+price to sell game: 0.00

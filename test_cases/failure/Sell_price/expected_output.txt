@@ -1,1 +1,0 @@
-Invalid Transaction! game price must be greater than 0.00

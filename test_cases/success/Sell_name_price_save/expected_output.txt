@@ -1,0 +1,3 @@
+gamename: somegame
+price: 19.99
+Status: Transaction successful, selling somegame for 19.99, writing to daily transaction file

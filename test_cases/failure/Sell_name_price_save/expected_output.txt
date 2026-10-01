@@ -1,0 +1,2 @@
+Unsuccesful Transaction! Input cannot be empty
+Invalid Transaction! game price must be greater than 0.00

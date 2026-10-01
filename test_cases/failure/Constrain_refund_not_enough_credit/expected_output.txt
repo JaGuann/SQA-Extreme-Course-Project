@@ -1,0 +1,1 @@
+Unsuccessful Transaction! Not enough credit to transfer from seller to buyer
