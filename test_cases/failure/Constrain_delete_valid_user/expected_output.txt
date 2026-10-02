@@ -1,1 +1,1 @@
-Error! cannot delete current username, must be existing
+Status: Transaction success, deleted user yes

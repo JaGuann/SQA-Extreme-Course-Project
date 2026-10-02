@@ -1,5 +1,4 @@
-See items: yes
 buy game: yes
 game name: games
-10.00 pay for game: yes
-buy game: yes 
+seller: seller
+buy game?: yes

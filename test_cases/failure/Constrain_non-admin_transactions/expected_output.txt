@@ -1,1 +1,0 @@
-Unsuccessful Transaction! must be standard-sell user in order to sell

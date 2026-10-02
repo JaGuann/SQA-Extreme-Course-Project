@@ -1,4 +1,5 @@
-Sell game: yes
-username: doesnt 
-Buy game: yes
-username: exist
+refund: yes
+buyer: buyer
+seller: seller
+price: 19.99
+refund?: yes

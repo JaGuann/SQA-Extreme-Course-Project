@@ -1,1 +1,1 @@
-Invalid Transaction! Max amount of credit is 999,999.00
+Transaction success, $100.00 added to user

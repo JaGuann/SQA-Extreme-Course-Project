@@ -1,2 +1,4 @@
-check inventory of games: 
-username: del
+buy game: yes
+game name: somegame
+seller: seller
+buy game?: yes

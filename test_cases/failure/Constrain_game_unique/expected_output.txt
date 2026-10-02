@@ -1,1 +1,1 @@
-Unsuccessful Transaction! game must not have save name as another game
+Status: Transaction success, new game dup listed

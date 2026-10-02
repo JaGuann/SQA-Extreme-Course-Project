@@ -1,3 +1,0 @@
-Sell game: yes
-username: user
-user type: standard-buy

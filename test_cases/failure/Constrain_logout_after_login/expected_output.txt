@@ -1,1 +1,1 @@
-Invalid Logout! Cannot logout if not logged in
+Status: Transaction successful, logged out

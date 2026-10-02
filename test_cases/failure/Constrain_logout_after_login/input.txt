@@ -1,6 +1,1 @@
-Login: yes
-username: user
-password: pass
-email: @email.com
-Logout: yes
 Logout: yes

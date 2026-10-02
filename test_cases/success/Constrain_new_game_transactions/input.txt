@@ -1,0 +1,4 @@
+buy game: yes
+game name: games
+seller: seller
+buy game?: yes

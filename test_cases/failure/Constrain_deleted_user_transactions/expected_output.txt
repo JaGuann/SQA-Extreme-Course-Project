@@ -1,1 +1,5 @@
-Unsuccessful Transaction! user cannot use any Transaction if user account was deleted
+buy game: yes
+game name: somegame
+seller: seller
+buy game?: yes
+Status: Transaction success, bought somegame from seller

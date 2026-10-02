@@ -1,0 +1,5 @@
+buy game: yes
+game name: games
+seller: seller
+buy game?: yes
+Status: Transaction failed, no further transactions accepted on a new game until the next session

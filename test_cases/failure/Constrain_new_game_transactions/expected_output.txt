@@ -1,1 +1,5 @@
-Unsuccessful Transaction! Cannot buy new game until next session
+buy game: yes
+game name: games
+seller: seller
+buy game?: yes
+Status: Transaction success, new game bought

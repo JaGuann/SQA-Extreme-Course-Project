@@ -1,1 +1,3 @@
 Buy: yes
+gamename: dup
+seller
