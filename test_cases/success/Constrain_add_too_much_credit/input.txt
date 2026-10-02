@@ -1,0 +1,3 @@
+add credit: yes
+add credit to username: user
+credit to add: 1.00

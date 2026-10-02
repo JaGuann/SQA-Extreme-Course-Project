@@ -1,0 +1,7 @@
+login: yes
+username: admin
+user type: admin
+password: password
+add credit: yes
+credit to input: 20.00
+credit to username: user

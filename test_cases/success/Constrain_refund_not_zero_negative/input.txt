@@ -1,0 +1,6 @@
+refund game: yes
+username: admin
+user type: admin
+game name: game
+refund to username: user
+credit to refund: 1.00
