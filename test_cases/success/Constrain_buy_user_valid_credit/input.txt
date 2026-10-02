@@ -1,0 +1,3 @@
+buy game: yes
+game name: credit
+put in credit to buy game: 20.00

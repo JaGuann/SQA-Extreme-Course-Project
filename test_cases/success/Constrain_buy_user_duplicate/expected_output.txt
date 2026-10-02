@@ -1,0 +1,1 @@
+successful transaction! Game has been added to users collection
