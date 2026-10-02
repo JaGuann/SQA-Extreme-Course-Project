@@ -1,2 +1,1 @@
-type: standard
-Status: Transaction successful, user type standard
+Status: Transaction failed, no items to list

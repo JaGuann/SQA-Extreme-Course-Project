@@ -1,2 +1,3 @@
-Login: yes
-username: username1234567
+create account?: yes
+username: username123456789
+account type: full-standard

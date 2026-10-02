@@ -1,1 +1,1 @@
-type: standard
+list items with seller or without seller? (1/2): 1

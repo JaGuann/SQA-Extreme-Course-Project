@@ -1,2 +1,3 @@
-User: admin
-Status: successful login as admin
+add credits?: yes
+username: notuser
+Status: Transaction failed, username must be an existing user

@@ -1,2 +1,2 @@
 username: newuser
-Status: Transaction successful
+Status: Transaction successful, account created

@@ -1,1 +1,1 @@
-logout
+are you sure you want to logout? yes

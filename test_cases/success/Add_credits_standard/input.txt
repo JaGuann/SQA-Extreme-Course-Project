@@ -1,4 +1,2 @@
 Add credit?: yes
-username: user
-user type: standard
 Credit to add: 10.00

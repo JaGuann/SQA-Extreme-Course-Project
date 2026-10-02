@@ -1,5 +1,3 @@
 Sell game: yes
-username: user
-user type: standard-sell
 game name: vid
-game price$: 15.01
+game price$: 1501

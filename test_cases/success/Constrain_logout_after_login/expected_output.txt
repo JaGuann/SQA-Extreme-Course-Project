@@ -1,1 +1,2 @@
-Status: Transaction failed, can only logout when loggec into an account
+are you sure you want to logout? yes
+Status: Transaction failed, can only logout when logged into an account
