@@ -1,0 +1,2 @@
+are you sure?: yes
+Status: Transaction successful, adding credits, writing to daily transaction file

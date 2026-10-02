@@ -1,2 +1,2 @@
-type: standard
+type: full-standard
 Status: Transaction successful, user type standard
