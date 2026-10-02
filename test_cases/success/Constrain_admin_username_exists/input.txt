@@ -1,0 +1,4 @@
+Login: yes
+username: admin
+user type: admin
+password: password
