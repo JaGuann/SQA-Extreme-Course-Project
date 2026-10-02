@@ -1,0 +1,2 @@
+10.00 Credit added: yes
+Status: Transaction successful
