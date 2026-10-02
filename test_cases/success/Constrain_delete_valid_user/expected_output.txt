@@ -1,2 +1,2 @@
-username: admin
-Status: Transaction failed, username cannot be currently logged in account
+username: someuser
+Status: Transaction failed, user must be a currently existing user

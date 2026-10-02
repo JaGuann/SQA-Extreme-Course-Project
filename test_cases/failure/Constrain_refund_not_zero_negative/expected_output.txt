@@ -1,1 +1,1 @@
-Unsuccesful Transaction! Cannot refund 0 or negative dollars
+Status: Transaction successful, refunded 0.00 from seller to buyer

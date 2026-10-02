@@ -1,1 +1,2 @@
-Unsuccesful Transaction! user type cannot be standard-buy to sell games
+Sell game: yes
+game name:

@@ -1,2 +1,2 @@
-type: standard
-Status: Transaction successful, user type standard
+Status: Transaction successful, listing items
+somegame seller $019.99

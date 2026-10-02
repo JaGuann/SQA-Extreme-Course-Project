@@ -1,4 +1,2 @@
-Login: yes
-username: admin
-user type: admin
-password: password
+add credits?: yes
+username: notuser

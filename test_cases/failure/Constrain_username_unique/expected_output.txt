@@ -1,1 +1,1 @@
-Invalid Login! Username already exist, create new one
+Status: Transaction failed, username already exist, create new one

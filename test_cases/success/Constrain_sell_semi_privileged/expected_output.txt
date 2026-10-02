@@ -1,1 +1,2 @@
+sell game?: yes
 Status: Transaction failed, cannot sell on account type standard-buy

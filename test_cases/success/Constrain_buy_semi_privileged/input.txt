@@ -1,7 +1,1 @@
-Login: yes
-username: sellstand
-user type: standard-sell
-password: pass
-sell game: yes
-game name: game
-price: 12.00
+buy game: yes

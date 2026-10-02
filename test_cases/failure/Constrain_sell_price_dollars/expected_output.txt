@@ -1,1 +1,1 @@
-Unsuccesful Transaction! Game must be in dollars($10.00)
+Status: Transaction successful, game vid being sold for 1501
