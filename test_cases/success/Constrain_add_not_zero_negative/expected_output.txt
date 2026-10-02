@@ -1,1 +1,1 @@
-successful transaction! 1.00 credit has been added to user account
+Unsuccessful transaction! negative dollars or 0.00 cannot be added to user account

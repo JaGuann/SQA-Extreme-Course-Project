@@ -1,1 +1,1 @@
-Successful transaction! 1.00 has been added to user account, credit to user account limit has been reached. no more credit can be added
+Unsuccessful transaction! credit to user account limit has been reached. no more credit can be added

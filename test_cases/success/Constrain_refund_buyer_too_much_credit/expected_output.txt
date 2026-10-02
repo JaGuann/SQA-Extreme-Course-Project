@@ -1,1 +1,1 @@
-Successful transaction! 20.00 has been refunded to user account
+Unsuccessful transaction! user credit amount as reached limit

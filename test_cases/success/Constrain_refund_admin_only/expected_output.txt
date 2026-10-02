@@ -1,1 +1,1 @@
-Successful transaction! 5.00 refund has been given to user
+Unsuccessful transaction! must be admin user type in order to refund
