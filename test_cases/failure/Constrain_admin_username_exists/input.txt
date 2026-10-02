@@ -1,2 +1,3 @@
-Login type: admin
+add credits: yes
 username: user 
+credits: 19.99

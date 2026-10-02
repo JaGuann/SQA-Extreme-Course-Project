@@ -1,1 +1,1 @@
-Successful Transaction! 1000.00 credit has been added to user account
+Transaction failed, cannot add more than 1000.00 credit to user accounts

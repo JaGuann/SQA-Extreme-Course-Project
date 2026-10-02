@@ -1,6 +1,3 @@
-Refund game: yes
-username: admin
-user type: admin
-credit to give username: user
-game name: game
+buyer: buyer
+seller: seller
 game price: 20.00

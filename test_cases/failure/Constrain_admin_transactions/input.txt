@@ -1,3 +1,2 @@
-Login: user 
-login type: standard buy
-Transaction buy: yes
+delete user: yes
+username: user

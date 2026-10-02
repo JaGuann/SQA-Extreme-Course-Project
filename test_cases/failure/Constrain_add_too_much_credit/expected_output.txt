@@ -1,1 +1,1 @@
-Unsuccesful Transaction! users credit limit must not exceed max credit limit($1000.00)
+Transaction success, $100.00 added to user

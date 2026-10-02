@@ -1,5 +1,3 @@
-refund game: yes
-username: seller
-user type: standard_sell
-refund to buyer username: buyer
+buyer: buyer
+seller: seller
 credit to refund: 20.00

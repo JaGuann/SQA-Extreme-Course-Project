@@ -1,1 +1,1 @@
-Unsuccessful Transaction! cannot add zero or negative dollars to refund
+Unsuccessful Transaction! cannot refund zero or negative dollars

@@ -1,2 +1,2 @@
-
-Delete transaction: yes
+delete user: yes
+username: user

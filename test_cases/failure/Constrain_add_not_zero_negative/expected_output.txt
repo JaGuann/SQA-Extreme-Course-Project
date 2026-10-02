@@ -1,1 +1,2 @@
-Unsuccesful Transaction! credit to refund cannot be 0 or negative number
+0.00 Credit added: yes
+Status: Transaction successful

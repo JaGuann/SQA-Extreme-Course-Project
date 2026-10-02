@@ -1,2 +1,2 @@
-Refund Credit: yes
-How much to refund: 0.00
+Add credit?: yes
+Credit to add: 0.00

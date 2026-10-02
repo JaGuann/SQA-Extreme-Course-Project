@@ -1,2 +1,4 @@
 Buy game: yes
-game name: gamecopy
+game name: somegame
+seller: seller
+buy game?: yes

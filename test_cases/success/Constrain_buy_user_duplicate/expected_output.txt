@@ -1,1 +1,1 @@
-successful transaction! Game has been added to users collection
+Status: Transaction failed, game already in users collection

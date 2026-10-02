@@ -1,1 +1,3 @@
-Transaction Unsuccessful: game2 is already in collection. Search for another game:
+Game: game2 
+Buy game?: yes
+Transaction success: bought game2

@@ -1,3 +1,4 @@
-Login: user
-login type: standard buy
-sell game: yes
+buy game: yes
+game name: game
+seller: seller
+buy game?: yes

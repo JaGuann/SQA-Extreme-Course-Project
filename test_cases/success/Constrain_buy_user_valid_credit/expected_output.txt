@@ -1,1 +1,1 @@
-successful transaction! game has been added to collection and 5.00 is your change
+Status: Transaction failed, not enough credit to buy game

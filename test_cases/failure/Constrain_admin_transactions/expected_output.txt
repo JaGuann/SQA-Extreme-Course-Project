@@ -1,1 +1,3 @@
-Unsuccesful Transaction! Must be Admin user to use this type of Transaction
+delete user: yes
+username: user
+Transaction success, deleted user

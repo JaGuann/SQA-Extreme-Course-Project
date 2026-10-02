@@ -1,1 +1,3 @@
-Unsuccessful transaction! Status is standard buy, must be admin in order to delete transaction
+delete user: yes
+username: user
+Transaction success, deleted user

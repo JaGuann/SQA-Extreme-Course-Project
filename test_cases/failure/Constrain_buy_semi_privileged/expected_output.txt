@@ -1,1 +1,5 @@
-Invalid Transaction! Cannot use sell Transaction if user is standard buy
+buy game: yes
+game name: game
+seller: seller
+buy game?: yes
+Status: Transaction success, bought game

@@ -1,4 +1,1 @@
-buy game: yes
-username: buy
-sell game: yes
-username: sell
+buyer: buyer

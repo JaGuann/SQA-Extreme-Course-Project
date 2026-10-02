@@ -1,6 +1,3 @@
-refund game: yes
-username: admin
-user type: admin
-game name: game
-refund to username: user
+buyer: buyer
+seller: seller
 credit to refund: 0.00

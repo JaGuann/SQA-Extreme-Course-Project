@@ -1,1 +1,5 @@
-Unsuccessful transaction! Game does not exist
+Buy game: yes 
+name of game: exist
+seller: seller
+buy game?: yes
+Transaction success, bought exist

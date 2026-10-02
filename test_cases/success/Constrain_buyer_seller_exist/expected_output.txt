@@ -1,1 +1,1 @@
-successful transaction! game is up for sale, and is ready to be bought
+Status: Transaction failed, user buyer doesn't exist

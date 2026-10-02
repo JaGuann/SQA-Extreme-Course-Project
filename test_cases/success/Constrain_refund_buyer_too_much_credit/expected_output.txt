@@ -1,1 +1,1 @@
-Unsuccessful transaction! user credit amount as reached limit
+Unsuccessful transaction! user credit amount has reached limit

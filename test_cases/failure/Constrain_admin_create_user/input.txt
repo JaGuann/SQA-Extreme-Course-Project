@@ -1,4 +1,1 @@
-login: user
-password: pass
-email: user@gmail.com
-Create new user: yes
+username: newuser
