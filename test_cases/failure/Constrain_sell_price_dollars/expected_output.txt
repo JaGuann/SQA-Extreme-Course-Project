@@ -1,0 +1,1 @@
+Unsuccesful Transaction! Game must be in dollars($10.00)

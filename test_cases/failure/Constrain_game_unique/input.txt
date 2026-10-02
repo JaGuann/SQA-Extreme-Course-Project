@@ -1,0 +1,2 @@
+sell game: yes
+game name: dup

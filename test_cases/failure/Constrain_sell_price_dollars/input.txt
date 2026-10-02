@@ -1,0 +1,5 @@
+Sell game: yes
+username: user
+user type: standard-sell
+game name: vid
+game price$: 15.01

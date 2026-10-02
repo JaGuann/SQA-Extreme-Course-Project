@@ -1,0 +1,7 @@
+Login: yes
+username: user
+password: pass
+email: @email.com
+Logout: yes
+Create user: yes
+username: user

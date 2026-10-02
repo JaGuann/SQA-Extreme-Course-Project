@@ -1,0 +1,1 @@
+Unsuccessful Transaction! Cannot buy new game until next session

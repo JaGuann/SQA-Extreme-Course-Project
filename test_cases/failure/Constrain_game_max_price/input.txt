@@ -1,0 +1,3 @@
+sell game: yes
+game name: game
+game price: 1000.00

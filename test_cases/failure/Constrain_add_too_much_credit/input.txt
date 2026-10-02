@@ -1,1 +1,2 @@
-
+Add Credit to user: yes
+how much credit to add: 2.00
