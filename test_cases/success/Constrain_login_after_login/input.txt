@@ -1,1 +1,4 @@
-login?: yes
+login
+user
+admin
+login

@@ -1,2 +1,5 @@
-Add credit?: yes
-Credit to add: 10.00
+login
+user
+full-standard
+add credit
+10.00

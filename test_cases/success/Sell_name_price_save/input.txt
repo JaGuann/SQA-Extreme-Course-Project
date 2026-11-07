@@ -1,2 +1,6 @@
-gamename: somegame
-price: 19.99
+login
+user
+full-standard
+sell
+somegame
+19.99

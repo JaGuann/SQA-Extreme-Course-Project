@@ -1,1 +1,4 @@
-delete an account?: yes
+login
+admin
+admin
+delete

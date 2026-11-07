@@ -1,1 +1,3 @@
-username: existinguser
+login
+existinguser
+full-standard

@@ -1,4 +1,6 @@
-Buy game: yes
-game name: somegame
-seller: seller
-buy game?: yes
+login
+someuser
+full-standard
+buy
+somegame
+seller

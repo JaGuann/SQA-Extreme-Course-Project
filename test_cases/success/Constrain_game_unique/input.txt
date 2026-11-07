@@ -1,1 +1,5 @@
-gamename: existinggame
+login
+user
+full-standard
+sell
+existinggame

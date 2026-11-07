@@ -1,1 +1,6 @@
-are you sure?: yes
+login
+user
+full-standard
+add credit
+10.00
+yes

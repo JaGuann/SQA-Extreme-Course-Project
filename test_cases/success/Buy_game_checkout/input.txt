@@ -1,1 +1,7 @@
-buy game?: yes
+login
+user
+full-standard
+buy
+somegame
+seller
+y

@@ -1,1 +1,6 @@
-price: 1000.00
+login
+user
+full-standard
+sell
+gamename
+1000.00

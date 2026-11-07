@@ -1,1 +1,5 @@
-gamename: gamenamelongerthan25characters
+login
+user
+full-standard
+sell
+gamenamelongerthan25characters

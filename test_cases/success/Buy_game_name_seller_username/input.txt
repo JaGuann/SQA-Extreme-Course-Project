@@ -1,2 +1,6 @@
-gamename: somegame
-seller: seller
+login
+user
+full-standard
+buy
+somegame
+seller

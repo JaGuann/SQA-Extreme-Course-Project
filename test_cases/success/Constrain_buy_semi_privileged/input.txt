@@ -1,1 +1,4 @@
-buy game: yes
+login
+user
+sell-standard
+buy

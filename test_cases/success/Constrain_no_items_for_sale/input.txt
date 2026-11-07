@@ -1,2 +1,5 @@
+login
+admin
+admin
 list
-list items with seller or without? (1/2): 1
+1

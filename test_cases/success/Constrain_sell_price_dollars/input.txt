@@ -1,1 +1,5 @@
-price: 1999
+login
+user
+full-standard
+sell
+1999

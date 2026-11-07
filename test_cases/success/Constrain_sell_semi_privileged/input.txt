@@ -1,1 +1,5 @@
-sell game?: yes
+login
+user
+buy-standard
+sell
+y

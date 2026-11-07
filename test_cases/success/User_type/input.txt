@@ -1,1 +1,6 @@
-type: full-standard
+login
+admin
+admin
+create
+newuser
+full-standard

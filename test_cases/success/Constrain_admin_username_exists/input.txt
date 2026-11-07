@@ -1,2 +1,5 @@
-add credits?: yes
-username: notuser
+login
+admin
+admin
+add credit
+notuser

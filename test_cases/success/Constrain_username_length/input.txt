@@ -1,1 +1,5 @@
-username: namelongerthan15char
+login
+admin
+admin
+create
+namelongerthan15char

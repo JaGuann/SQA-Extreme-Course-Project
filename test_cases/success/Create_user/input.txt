@@ -1,1 +1,5 @@
-username: newuser
+login
+admin
+admin
+create
+newuser

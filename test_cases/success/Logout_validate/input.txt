@@ -1,1 +1,4 @@
-logout? (y/n):y 
+login
+admin
+admin
+logout

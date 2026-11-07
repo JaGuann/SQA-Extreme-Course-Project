@@ -1,3 +1,6 @@
-add credit to user: yes
-username: user
-how much credit to add: 1001.00
+login
+admin
+admin
+add credit
+user
+1001.00

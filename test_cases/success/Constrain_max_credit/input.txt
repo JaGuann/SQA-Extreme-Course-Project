@@ -1,4 +1,5 @@
-Add credit?: yes
-username: user
-user type: standard
-Credit to add: 100.00
+login
+admin
+add credit
+user
+100.00

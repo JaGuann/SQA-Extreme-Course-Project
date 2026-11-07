@@ -1,3 +1,7 @@
-buyer: buyer
-seller: seller
-credit to refund: 20.00
+login
+admin
+admin
+refund
+buyer
+seller
+20.00

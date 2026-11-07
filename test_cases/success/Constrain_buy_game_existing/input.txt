@@ -1,2 +1,5 @@
-Buy game: yes
-game name: steamboat
+login
+user
+full-standard
+buy
+steamboat

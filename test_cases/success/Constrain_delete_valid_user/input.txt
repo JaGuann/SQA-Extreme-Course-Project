@@ -1,1 +1,5 @@
-username: someuser
+login
+admin
+admin
+delete
+someuser

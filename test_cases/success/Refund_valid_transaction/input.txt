@@ -1,4 +1,7 @@
-Refund: yes
-buyer username: buyer1
-seller username: seller1
-credit to transfer: 20.00
+login
+admin
+admin
+refund
+buyer1
+seller1
+20.00

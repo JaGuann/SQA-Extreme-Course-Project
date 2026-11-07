@@ -1,3 +1,6 @@
-add credit: yes
-add credit to username: user
-credit to add: 1.00
+login
+admin
+admin
+add credit
+user
+1.00

@@ -1,2 +1,8 @@
-gamename: somegame
-seller: seller
+login
+admin
+admin
+delete
+seller
+buy
+somegame
+seller
