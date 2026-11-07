@@ -6,7 +6,7 @@ TARGET = main
 
 TARGET_DEL = main.exe
 
-SRCS = main.cpp
+SRCS = main.cpp account.cpp game.cpp user.cpp admin_user.cpp
 
 OBJS = $(SRCS:.cpp=.o) 
 
@@ -19,7 +19,7 @@ $(TARGET): $(OBJS)
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 run: $(TARGET)
-	$(TARGET)
+		.\$(TARGET)
 
 clean: 
 	del $(TARGEL_DEL) $(OBJS)

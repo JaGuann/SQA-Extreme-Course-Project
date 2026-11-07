@@ -1,6 +1,9 @@
 #include <string>
 #include <vector>
 #include "game.h"
+#ifndef ACCOUNT_H
+#define ACCOUNT_H
+
 
 class Account {
 protected:
@@ -9,8 +12,22 @@ protected:
     double credit;
     std::vector<Game> collection;
     
-    void sellGame(std::string name, double price);
-    void buyGame(std::string game, std::string seller);
+
+public:
+    // Account constructor
+    Account(const std::string& name, const std::string& type, double credit);
+
+    void sellGame(const std::string& name, double price);
+    void buyGame(const std::string& game, const std::string& seller);
     void addCredits(double credit);
-    void listItems(std::string choice);
-};
+    void listItems(const std::string& choice);
+
+    // Account getters
+    const std::string& getUsername() const;
+    const std::string& getType() const;
+    double getCredit() const;
+    const std::vector<Game>& getCollection() const;
+
+}; 
+
+#endif
