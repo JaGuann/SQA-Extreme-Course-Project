@@ -1,9 +1,6 @@
 #include <string>
 #include "game.h"
-// private:
-//     std::string name;
-//     std::string seller;
-//     double price;
+
 
 // Member initialization
 Game::Game(const std::string& name, const std::string& seller, double price)

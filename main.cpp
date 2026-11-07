@@ -149,7 +149,7 @@ int main() {
 
             // if the targeruser points to the current user, doesnt delete because cannot delete current user
             if (targetUser == currentUser->getUsername()){
-                std::cout << "Unsuccessful Transaction! Cannot delete current user";
+                std::cout << "Unsuccessful Transaction! Cannot delete current user\n";
                 continue;
             } 
 
@@ -157,36 +157,103 @@ int main() {
             adminUser->deleteUser(targetUser);
         }
 
+        // Sell game
         else if (command == "sell") {
-            std::cout << "sell game?(y/n): ";
-            std::cin >> in;
-            std::cout << "game to sell?: ";
-            std::cin >> in; 
-            std::cout << "game " + in  + " is up for sale";
+            // points to see if the usertype is buy standard
+            if (currentUser->getType() == "BS"){
+                std::cout << "Unsuccessfull Transaction: buy-standard users cannot sell games!\n";
+                continue;
+            }
+
+            std::string gameName;
+            double price;
+
+            std::cout << "Game to sell?: ";
+            std::getline(std::cin, gameName);
+            // checks if game length is more than 25 characters
+            if (gameName.length() > 25) {
+                std::cout << "Unsuccessful Transaction! Game name cannot exceed 25 characters!\n";
+                continue;
+            }
+
+            std::cout << "Price?: ";
+            // if user tries to input anything other than a double the input it uses clear to to flag the error
+            // then it uses ignore to throw it out of memory
+            if (!(std::cin >> price)) {
+                std::cin.clear();
+                std::cin.ignore(1000, '\n');
+                std::cout << "Unsuccessful Transaction! price format is not valid!\n";
+                continue;
+            }
+
+            // clears newline from stream
+            std::cin.ignore(1000, '\n');
+
+            if (price <= 0.0 || price > 999.99) {
+                std::cout << "Unsuccessful Transaction! Price must be between $0.01 and $999.99!\n";
+            }
+
+            // Call account or user sellGame method
+            currentUser->sellGame(gameName, price);
         } 
 
+        // Buy games
         else if (command == "buy") {
-            std::cout << "buy game?(y/n): ";
-            std::cin >> in;
-            std::cout << "game to buy?: ";
-            std::cin >> in;
-            std::cout << "game " + in + " bought";
+             if (currentUser->getType() == "SS"){
+                std::cout << "Unsuccessfull Transaction: sell-standard users cannot buy games!\n";
+                continue;
+
+            } 
+
+            std::string gameName, sellerName;
+            std::cout << "Game to buy?: ";
+            std::getline(std::cin, gameName);
+            std::cout << "Sellers name: ";
+            std::getline(std::cin, sellerName);
+
+            // Calls account or user buygame method
+            currentUser->buyGame(gameName, sellerName);
         } 
 
+        // Refund Only admin can do
         else if (command == "refund") {
-            std::cout << "refund?(y/n): ";
-            std::cin >> in;
-            std::cout << "game to refund?: ";
-            std::cin >> in; 
-            std::cout << "Game refunded";
+            if (adminUser == nullptr){
+                std::cout << "Unsuccessful Transaction! Must be Admin user type to refund\n";
+                continue;
+            }
+
+            std::string buyer, seller;
+            double refundAmount;
+
+            std::cout << "Buyer username: ";
+            std::getline(std::cin, buyer);
+            std::cout << "Seller username: ";
+            std::getline(std::cin, seller);
+
+            std::cout << "Refund amount: ";
+
+            //similar to sell game if refundamount is not a double it uses clear to to flag the error
+            // then it uses ignore to throw it out of memory
+            if (!(std::cin >> refundAmount)) {
+                std::cin.clear();
+                std::cin.ignore(1000, '\n');
+                std::cout << "Unsuccessful Transaction! price format is not valid!\n";
+            }
+
+            std::cin.ignore(1000, '\n');
+
+            // call admin_user refund
+            adminUser->refund(buyer, seller, refundAmount);
         }
 
+        //
         else if (command == "add credit") {
-            std::cout << "Add credit?(y/n)?: ";
-            std::cin >> in;
-            std::cout << "How much credit to add?: ";
-            std::cin >> credit;
-            std::cout << "$" << credit << " has been added to account!"; 
+           std::string targetUser = currentUser->getUsername();
+
+           // Check if user is currently admin type
+           if (adminUser != nullptr){
+                std::cout << "Enter username of account to add to: ";
+           }
 
         }
     }

@@ -1,8 +1,9 @@
+#ifndef ACCOUNT_H
+#define ACCOUNT_H
 #include <string>
 #include <vector>
 #include "game.h"
-#ifndef ACCOUNT_H
-#define ACCOUNT_H
+
 
 
 class Account {

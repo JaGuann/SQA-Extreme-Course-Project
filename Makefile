@@ -19,7 +19,7 @@ $(TARGET): $(OBJS)
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 run: $(TARGET)
-		.\$(TARGET)
+		./$(TARGET)
 
 clean: 
-	del $(TARGEL_DEL) $(OBJS)
+	del $(TARGEL_DEL) $(OBJS) main.o account.o game.o user.o admin_user.o
