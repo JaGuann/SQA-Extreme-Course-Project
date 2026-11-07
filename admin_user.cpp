@@ -27,7 +27,7 @@ Admin_User::Admin_User(const std::string& username, double credit)
     : Account(username, "AA", credit) {}
 
 void Admin_User::createUser(const std::string& name, const std::string& type){
-    std::cout << "Status: Transaction successful, account created\n";
+    std::cout << "Status: Transaction successful " << name << "(" <<  type << ") account created\n";
 } 
 
 void Admin_User::deleteUser(const std::string& name) {

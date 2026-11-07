@@ -76,14 +76,14 @@ int main() {
                 break;
             }
 
-            if (userType == "admin" || "AA") {
+            if (userType == "admin" || userType == "AA") {
                 adminUser = new Admin_User(username, 1000.0);
                 currentUser = adminUser;
             } 
-            else if (userType == "buy-standard" || "BS") {
+            else if (userType == "buy-standard" || userType == "BS") {
                 currentUser = new User(username, "BS", 500.0);
             }
-            else if (userType == "sell-standard" || "SS") {
+            else if (userType == "sell-standard" || userType == "SS") {
                 currentUser = new User(username, "SS", 500.0);
             }
             else {
@@ -100,11 +100,63 @@ int main() {
             std::cout << "Unsuccessful Transaction: must be logged in to use command\n";
         }
 
+        // Logout functionality
         else if (command == "logout") {
-            std::cout << "confirm logout?(y/n): ";
-            std::cin >> in; 
-            std::cout << "Successfully logged out";
+            std::cout << "Succesfully Logged out!\n";
+            // everything is cleared
+            delete currentUser;
+            currentUser = nullptr;
+            adminUser = nullptr;
+            isLogin = false;
+            creditAddSession = 0.0;
         } 
+
+        // Only admin can create accounts
+        else if (command == "create"){
+            if (adminUser == nullptr){
+                std::cout << "Unsuccessful Transaction! Must be Admin user type to create\n";
+                continue;
+            }
+
+            std::string newUsername, newType;
+            std::cout << "Enter username: ";
+            std::getline(std::cin, newUsername);
+
+            // user cannot exceed 15 characters
+            if (newUsername.length() > 15){
+                std::cout << "Unsuccessful Transaction! username cannot exceed 15 characters\n";
+            }
+
+            std::cout << "Enter User type(admin, full-standard, buy-standard, sell-standard): ";
+            std::getline(std::cin, newType);
+
+            // We call admin_user createuser method 
+            adminUser->createUser(newUsername, newType);
+
+        }
+
+        // Delete is only for admin type users
+        else if (command == "delete") {
+            // if adminuser points to nothing premission is denied
+            if (adminUser == nullptr){
+                std::cout << "Unsuccessful Transaction! Must be Admin user type to delete\n";
+                continue;
+            }
+
+            std::string targetUser;
+            std::cout << "Enter username to delete: ";
+            std::getline(std::cin, targetUser);
+
+            // if the targeruser points to the current user, doesnt delete because cannot delete current user
+            if (targetUser == currentUser->getUsername()){
+                std::cout << "Unsuccessful Transaction! Cannot delete current user";
+                continue;
+            } 
+
+            // Call admin_user deleteUser method
+            adminUser->deleteUser(targetUser);
+        }
+
         else if (command == "sell") {
             std::cout << "sell game?(y/n): ";
             std::cin >> in;
