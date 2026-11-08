@@ -276,7 +276,7 @@ int main() {
 
             // max credit session cannot exceed
             if (creditAddSession + credit > 1000.00) {
-                "Unsuccessful Transaction! Max credit for session is $1000.00";
+                std::cout << "Unsuccessful Transaction! Max credit for session is $1000.00";
             }
 
             // add credit to current credit session that has been added
