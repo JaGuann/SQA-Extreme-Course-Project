@@ -1,2 +1,0 @@
-Game: game2 
-Buy game?: yes

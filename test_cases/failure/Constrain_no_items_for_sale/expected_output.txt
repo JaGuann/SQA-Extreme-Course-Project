@@ -1,2 +1,0 @@
-list items with seller or without seller? (1/2): 1
-Status: Transaction successful, displaying items

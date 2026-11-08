@@ -1,2 +1,0 @@
-delete user: yes
-username: user

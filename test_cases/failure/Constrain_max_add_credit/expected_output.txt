@@ -1,1 +1,0 @@
-Status: Transcction success, added $1001.00 to user 

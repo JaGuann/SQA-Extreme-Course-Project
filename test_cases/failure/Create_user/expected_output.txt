@@ -1,1 +1,0 @@
-Cannot create user! must be admin type in order for user to be created

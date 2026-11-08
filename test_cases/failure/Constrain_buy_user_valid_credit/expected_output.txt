@@ -1,5 +1,0 @@
-Buy: yes
-gamename: dup
-seller: seller
-buy game?: yes
-Transaction successful! bought game dup

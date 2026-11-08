@@ -1,0 +1,14 @@
+Welcome
+Choose command
+Login
+Logout
+create 
+delete
+sell
+buy
+refund
+add credit
+command: Username: User Type(admin, full-standard, buy-standard, sell-standard): Succesfully logged in as user Type(FS)
+command: command: Invalid command! Please choose a valid command listed above:
+command: Invalid command! Please choose a valid command listed above:
+command: 

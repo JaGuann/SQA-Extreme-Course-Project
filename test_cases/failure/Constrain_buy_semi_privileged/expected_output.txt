@@ -1,5 +1,0 @@
-buy game: yes
-game name: game
-seller: seller
-buy game?: yes
-Status: Transaction success, bought game

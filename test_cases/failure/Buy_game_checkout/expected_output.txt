@@ -1,1 +1,0 @@
-Cannot add game because user does not have enough credit to buy game

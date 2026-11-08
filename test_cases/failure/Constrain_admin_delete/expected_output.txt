@@ -1,3 +1,0 @@
-delete user: yes
-username: user
-Transaction success, deleted user

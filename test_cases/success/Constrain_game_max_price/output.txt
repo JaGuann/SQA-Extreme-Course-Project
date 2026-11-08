@@ -1,0 +1,14 @@
+Welcome
+Choose command
+Login
+Logout
+create 
+delete
+sell
+buy
+refund
+add credit
+command: Username: User Type(admin, full-standard, buy-standard, sell-standard): Succesfully logged in as user Type(FS)
+command: Game to sell?: Price?: Unsuccessful Transaction! Price must be between $0.01 and $999.99!
+Gamegamenameis up for sale
+command: 

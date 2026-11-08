@@ -1,3 +1,0 @@
-create account?: yes
-username: username123456789
-account type: full-standard

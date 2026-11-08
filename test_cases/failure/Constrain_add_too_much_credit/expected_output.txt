@@ -1,1 +1,0 @@
-Transaction success, $100.00 added to user

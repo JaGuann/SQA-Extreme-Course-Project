@@ -1,4 +1,0 @@
-Buy: yes
-gamename: dup
-seller: seller
-buy game?: yes

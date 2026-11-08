@@ -1,3 +1,0 @@
-Game: game2 
-Buy game?: yes
-Transaction success: bought game2

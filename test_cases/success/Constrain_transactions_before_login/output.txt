@@ -1,0 +1,12 @@
+Welcome
+Choose command
+Login
+Logout
+create 
+delete
+sell
+buy
+refund
+add credit
+command: Unsuccessful Transaction: must be logged in to use command
+command: 

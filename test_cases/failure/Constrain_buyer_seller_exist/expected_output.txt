@@ -1,6 +1,0 @@
-refund: yes
-buyer: buyer
-seller: seller
-price: 19.99
-refund?: yes
-Status: Transaction success, refunded 19.99 from seller to buyer

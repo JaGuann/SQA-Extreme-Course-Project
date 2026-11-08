@@ -1,4 +1,0 @@
-add credits: yes
-username: user 
-credits: 19.99
-Transaction success, added $19.99 to user

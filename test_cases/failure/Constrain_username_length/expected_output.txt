@@ -1,1 +1,0 @@
-Invalid Login! username cannot exceed 15 characters!

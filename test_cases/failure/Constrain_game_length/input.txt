@@ -1,2 +1,0 @@
-game: gameoftheyearfrombackinday
-price: 19.99

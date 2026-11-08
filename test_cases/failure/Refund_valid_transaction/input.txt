@@ -1,3 +1,0 @@
-seller: seller
-buyer: user
-amount to refund: 1.00

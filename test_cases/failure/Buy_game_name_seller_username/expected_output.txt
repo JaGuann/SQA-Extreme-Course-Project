@@ -1,1 +1,0 @@
-Unsuccessful purchase: Game named is not avaliable or sellers username does not exist

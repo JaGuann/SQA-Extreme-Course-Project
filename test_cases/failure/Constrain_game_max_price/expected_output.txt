@@ -1,1 +1,0 @@
-Status: Transaction success, new game game with price $1000.00 listed
