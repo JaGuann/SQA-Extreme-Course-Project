@@ -238,6 +238,7 @@ int main() {
                 std::cin.clear();
                 std::cin.ignore(1000, '\n');
                 std::cout << "Unsuccessful Transaction! price format is not valid!\n";
+                continue;
             }
 
             std::cin.ignore(1000, '\n');
@@ -253,9 +254,51 @@ int main() {
            // Check if user is currently admin type
            if (adminUser != nullptr){
                 std::cout << "Enter username of account to add to: ";
+                std::getline(std::cin, targetUser);
            }
+
+           std::cout << "How much credit to add?: ";
+           //similar to sell game and refund if input is not a double it uses clear to to flag the error
+            // then it uses ignore to throw it out of memory
+           if (!(std::cin >> credit)) {
+                std::cin.clear();
+                std::cin.ignore(1000, '\n');
+                std::cout << "Unsuccessful Transaction! price format is not valid!\n";
+                continue;
+            }
+            std::cin.ignore(1000, '\n'); 
+
+            // negative credit cannot exist
+            if (credit <= 0.0) {
+                std::cout << "Unsuccessful Transaction! Credit amount must be positive.\n";
+                continue;
+            }
+
+            // max credit session cannot exceed
+            if (creditAddSession + credit > 1000.00) {
+                "Unsuccessful Transaction! Max credit for session is $1000.00";
+            }
+
+            // add credit to current credit session that has been added
+            creditAddSession += credit; 
+
+            if (adminUser != nullptr) {
+                // We call admin_user::addcredits
+                adminUser->addCredits(credit, targetUser);
+            }
+            else {
+                // call account::addcredits
+                currentUser->addCredits(credit);
+                std::cout << "$" << credit << " has been added to account\n";
+            }
 
         }
     }
+
+    // remove dynamic memory
+    if (currentUser != nullptr) {
+        delete currentUser;
+    }
+
     return 0;
 }
