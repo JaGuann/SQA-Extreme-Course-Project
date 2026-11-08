@@ -13,4 +13,4 @@ for /D %%i in (*) do (
     )
     cd ..
 )
-pause
+@REM  pause

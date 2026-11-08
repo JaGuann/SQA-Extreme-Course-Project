@@ -2,5 +2,5 @@ login
 admin
 admin
 add credit
-20.00
 user
+20.00
