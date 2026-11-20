@@ -1,3 +1,4 @@
+# Will be implemented in phase 5
 class Backend:
     def __init__(self, user_accounts, available_games, games_collection):
         self._user_accounts = []

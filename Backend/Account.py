@@ -1,3 +1,4 @@
+# Will be implemented in phase 5
 class Account:
     def __init__(self, type, username, credit):
         self._type = type
