@@ -7,7 +7,7 @@ for /D %%i in (*) do (
         @REM  and run the program on the input.txt and output to output.txt
         cd "%%j"
         echo running test %%i/%%j
-        echo %cd%
+        @REM  echo %cd%
         ..\..\..\main.exe < input.txt > output.txt
         cd ..
     )
